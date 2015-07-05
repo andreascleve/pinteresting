@@ -15,6 +15,9 @@ gem 'bootstrap-sass'
 #Bootstrap framework
 gem 'devise', '~> 3.5.1'
 #Devise gem
+gem 'paperclip', '~> 4.2'
+#imaging gem
+
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
