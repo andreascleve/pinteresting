@@ -17,6 +17,8 @@ gem 'devise', '~> 3.5.1'
 #Devise gem
 gem 'paperclip', '~> 4.2'
 #imaging gem
+gem 'aws-sdk', '< 2.0'
+#Amazon S3
 
 
 # Use jquery as the JavaScript library
